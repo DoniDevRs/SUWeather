@@ -5,7 +5,7 @@ An iOS Application developed using SwiftUI and Openweathermap API.
 ## Technical specs
 - Language: Swift
 - Networking: Alamofire
-- UI: SwiftUI
+- SwiftUI
 
 ## Features
 - Current Location Weather
