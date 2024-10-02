@@ -15,7 +15,7 @@ An iOS Application developed using SwiftUI and Openweathermap API.
 ## Screenshots
 |Current Location|Change City Location|City Weather|Dark Mode|  
 |:-:|:-:|:-:|:-:|
-|<img src="/SUWeather/Assets.xcassets/San Francisco Screen.imageset/San Francisco Screen.png" width="250"/>|<img src="/SUWeather/Assets.xcassets/ChangeCityScreen.imageset/ChangeCityScreen.png" width="250"/>|<img src="/SUWeather/Assets.xcassets/New York Screen.imageset/New York Screen.png" width="250"/>|<img src="/SUWeather/Assets.xcassets/DarkModeScreen.imageset/DarkModeScreen.png"/>
+|<img src="/Images/Current Location.png" width="250"/>|<img src="/Images/Change Current Location.png" width="250"/>|<img src="/Images/City Wheater.png" width="250"/>|<img src="/Images/Dark Mode.png" width="250"/>
 
 ## Steps to build and run
 - Clone repo 
